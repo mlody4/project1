@@ -1,5 +1,6 @@
 'use strict';
 
+// to jest stała w JS
 const btn = document.querySelector('header a');
 const h1 = document.querySelector('header h1');
 const h1Text = h1.innerText;
